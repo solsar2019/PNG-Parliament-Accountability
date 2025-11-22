@@ -1,5 +1,6 @@
 # PNG-Parliament-Accountability
-A civic tech project to analyze PNG Hansard transcripts using NLP for legislative accountability and transparacy.
+
+This repository houses the code and documentation for a civic tech initiative designed to enhance political accountability in Papua New Guinea through Natural Language Processing (NLP) analysis of parliamentary transcripts.
 
 # 🇵🇬 PNG Parliament Accountability NLP Tracker
 
@@ -65,7 +66,7 @@ Volunteers are encouraged to select tasks labeled with appropriate skill tags (e
 ### C. Publishing & Deployment
 1.  **Primary Host:** **GitHub** (Code and raw data files).
 2.  **Interactive Dashboard:** **GitHub Pages** or **Netlify** (Free services for hosting the final web application/Commitment Tracker).
-3.  **Social Media:** Regular updates on platforms like **Facebook/Twitter** will drive public traffic to the main project dashboard.
+3.  **Social Media:** Regular updates on platforms like **Facebook/X** will drive public traffic to the main project dashboard.
 
 ---
 
