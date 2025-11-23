@@ -78,4 +78,35 @@ Volunteers are encouraged to select tasks labeled with appropriate skill tags (e
 | **Phase 2: Core Analysis** | Run initial ML models. | **Commitment Dashboard:** Visualization of MP speeches, top topics, and initial sentiment scores. |
 | **Phase 3: Spatial Integration** | Link text data to geography. | **QGIS Map Layer:** Showing policy discussion frequency mapped to PNG Provinces/Districts. |
 
+---
+## 🚀 Getting Started
 
+Follow these steps to set up the project environment and run the Hansard scraper.
+
+### Prerequisites
+* **Python 3.10+**
+* **Google Chrome/Chromium** (Required for the Selenium scraper to function in headless mode).
+
+### Installation & Setup
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/solsar2019/PNG-Parliament-Accountability.git](https://github.com/solsar2019/PNG-Parliament-Accountability.git)
+    cd PNG-Parliament-Accountability
+    ```
+2.  **Create and Activate Virtual Environment:**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+3.  **Install Required Libraries:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Execution
+
+Run the main scraper script from the root directory:
+
+```bash
+(venv) python data_acquisition/hansard_scraper.py
